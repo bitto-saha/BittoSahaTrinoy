@@ -1,0 +1,26 @@
+body {
+    font-size: 15pt;
+    background-color: white;
+}
+button{
+  
+  background-color: coral;
+  padding: 1rem;
+  font-size: 25px;
+  font-family: monospace;
+  margin-top: 25rem;
+  margin-left: 20rem;
+}
+
+@media (max-width: 720px){
+  
+  button {
+  
+    background-color: coral;
+    padding: 1rem;
+    font-size: 20px;
+    font-family: monospace;
+    margin-top: 15rem;
+    margin-left: 5rem;
+  }
+}
